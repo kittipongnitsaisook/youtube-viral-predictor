@@ -37,11 +37,13 @@
 
 1. Clone repository นี้ลงเครื่อง:
    ```bash
-   git clone [https://github.com/](https://github.com/)[ชื่อผู้ใช้ของคุณ]/youtube-viral-predictor.git
+   git clone [https://github.com/](https://github.com/)[kittipongnitsaisook]/youtube-viral-predictor.git
    cd youtube-viral-predictor
 
 2. ติดตั้งไลบรารีที่จำเป็น:
+   ```bash
    pip install -r requirements.txt
 
-3. สั่งรันแอปพลิเคชัน:
+4. สั่งรันแอปพลิเคชัน:
+   ```bash
    streamlit run app.py
