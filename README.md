@@ -1,6 +1,6 @@
 # 🚀 YouTube Viral Predictor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://[ใส่ลิงก์-URL-Streamlit-ของคุณตรงนี้])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://youtube-viral-predictor-ctekckwdgcwzypawmzgmpp.streamlit.app/#39c3d699)
 
 เว็บแอปพลิเคชันสำหรับทำนายโอกาสที่คลิปวิดีโอบน YouTube จะกลายเป็นคลิป "ไวรัล" (ติดอันดับ Top 10% ของแพลตฟอร์ม) โดยใช้โมเดล Machine Learning วิเคราะห์จากสถิติและปัจจัยแวดล้อมต่างๆ ของวิดีโอ
 
